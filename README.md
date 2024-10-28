@@ -6,9 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![Mode Page](Screenshots/SelectMode.png)
-![Easy Mode](Screenshots/EasyMode.png)
-![Hard Mode](Screenshots/HardMode.png)
+![Mode Page](Screenshots/SelectMode)
+![Easy Mode](Screenshots/EasyMode)
+![Hard Mode](Screenshots/HardMode)
 
 A few resources to get you started if this is your first Flutter project:
 
